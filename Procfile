@@ -1,1 +1,1 @@
-web: go build && ./first-api.exe
+web: first-api
